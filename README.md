@@ -10,4 +10,5 @@ Project highlights:
   5. Ues ADS1115 as ADC, it provides high resoultion for batter conversation results
   
 Enjoy!
-[![](https://raw.githubusercontent.com/mscy/O2Reader/master/final.jpg)]
+
+![](https://raw.githubusercontent.com/mscy/O2Reader/master/final.jpg)
