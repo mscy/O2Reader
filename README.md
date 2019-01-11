@@ -1,5 +1,5 @@
 # Cy O2Reader
-An Nano based O2 Reader for Nitrogen Diver and blender.
+An Nano based O2 Reader for Nitrogen Diver and gas blender.
 This is an open sourced project that based on Arduino Nano MCU.
 Idea of this project is to reuse Expired JJCCR O2 sensor.
 Project highlights:
