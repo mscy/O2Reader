@@ -12,4 +12,8 @@ Project highlights:
 Enjoy!
 
 ![](https://raw.githubusercontent.com/mscy/O2Reader/master/final.jpg)
+Final
 ![](https://raw.githubusercontent.com/mscy/O2Reader/master/casing.png)
+Case Design
+![](https://github.com/mscy/O2Reader/blob/master/PCBLayout.jpg?raw=true)
+PCB layout
