@@ -12,3 +12,4 @@ Project highlights:
 Enjoy!
 
 ![](https://raw.githubusercontent.com/mscy/O2Reader/master/final.jpg)
+![](https://raw.githubusercontent.com/mscy/O2Reader/master/casing.png)
