@@ -23,3 +23,10 @@ Case Design
 
 PCB layout
 
+![](https://github.com/mscy/O2Reader/blob/master/1.jpg)
+
+![](https://github.com/mscy/O2Reader/blob/master/2.jpg)
+
+![](https://github.com/mscy/O2Reader/blob/master/3.jpg)
+
+![](https://github.com/mscy/O2Reader/blob/master/4.jpg)
