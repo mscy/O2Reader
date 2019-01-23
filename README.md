@@ -11,6 +11,10 @@ Project highlights:
   
 Enjoy!
 
+![](https://github.com/mscy/O2Reader/blob/master/finalCasing.jpg?raw=true)
+Final work wiht 3d Printed case
+
+
 ![](https://raw.githubusercontent.com/mscy/O2Reader/master/final.jpg)
 
 Final
